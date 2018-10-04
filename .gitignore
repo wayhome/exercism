@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+.idea
+*.code-workspace
+target/
+.solution.json
+.vscode/
+
